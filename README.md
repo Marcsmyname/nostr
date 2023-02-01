@@ -1,2 +1,5 @@
-# nostr
-A static Webpage I share on Nostr
+# Welcome to My Nostr Blog
+
+To do finish this
+
+
